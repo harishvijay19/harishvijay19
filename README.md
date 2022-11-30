@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @harishvijay19
+I'm a Learner, Developer, Teacher
+
+- 👋 I am a passionate self-taught developer from india
+- 🌱 I'm currently learning a lot of things
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning what I find interesting 
+- 🥅 2023 Goal: Contribute and learn more project
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me : harishvijay199@gmail.com 
 
